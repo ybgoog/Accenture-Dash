@@ -1,0 +1,712 @@
+
+========================================
+SHEET: 2026 Key Accounts (File: xl/worksheets/sheet1.xml)
+Total Rows: 1019
+A1: | B1:ep g | C1: | D1: | E1: | F1: | G1: | H1: | I1: | J1:
+A2: | B2: | C2: | D2: | E2: | F2: | G2: | H2: | I2: | J2:
+A3: | B3: | C3: | D3: | E3: | F3: | G3: | H3: | I3: | J3:
+A4:GSI | B4:Is it EMEA focus Account 
+(tick if yes) | C4:Account Name | D4:Sub region | E4:Account Link to Vector (mandatory) | F4:Google Strategy | G4:Partner Position (priority) | H4:Is Market Mover/Startegic | I4:Greenfield / Spender | J4:Industry
+A5:Accenture | B5:0 | C5:[BE] European Commission | D5:Benelux | E5:https://vector.lightning.force.com/lightning/r/Account/0014M00001hbtrJQAQ/view | F5:Greenfield - rev and bookings pipe | G5:2.0 | H5:- | I5:SPENDER | J5:Public Sector & EDU
+A6:Accenture | B6:1 | C6:[BE] NATO | D6:Benelux | E6:Vector Link | F6:Greenfield - rev and bookings pipe | G6:3.0 | H6:- | I6:GREENFIELD | J6:Public Sector & EDU
+
+========================================
+SHEET: Pipe line Raw Data - Extract (File: xl/worksheets/sheet2.xml)
+Total Rows: 1504
+A1:sfdc_account_id | B1:child_account_name | C1:reporting_account_name | D1:partner_group_name | E1:opportunity_id | F1:opportunity_name | G1:stage_name | H1:sub_region | I1:close_date | J1:create_date
+A2:0014M00001hLNL6QAO | B2:HSBC Global Services (UK) Limited | C2:HSBC Global Services (UK) Limited | D2:KPMG | E2:006Kf00000OqwTgIAJ | F2:HSBC-GCP-CIB-TRADEDRISK-CAIRA_V2 | G2:04 - Migration/Implementation | H2:UK/IE FSI | I2:46218 | J2:46218
+A3:0014M00001hiyrlQAA | B3:Robert Bosch GmbH | C3:Robert Bosch GmbH | D3:PwC | E3:006Kf00000NSNRWIA5 | F3:Bosch-GE-PWC sustainability and related reporting | G3:Closed Lost | H3:DACH | I3:46218 | J3:46086
+A4:0014M00001hlz2SQAQ | B4:RENAULT | C4:RENAULT | D4:Boston Consulting Group | E4:006Kf00000OevK6IAJ | F4:Renault S.A.S/$885,000,000 TCV/ 8 YRS #LAM- TIF 1 extension | G4:04 - Migration/Implementation | H4:France | I4:46219 | J4:46199
+A5:0014M00001hlz2SQAQ | B5:RENAULT | C5:RENAULT | D5:Deloitte | E5:006Kf00000OevK6IAJ | F5:Renault S.A.S/$885,000,000 TCV/ 8 YRS #LAM- TIF 1 extension | G5:04 - Migration/Implementation | H5:France | I5:46219 | J5:46199
+A6:0014M00001hlz2SQAQ | B6:RENAULT | C6:RENAULT | D6:Accenture | E6:006Kf00000OevK6IAJ | F6:Renault S.A.S/$885,000,000 TCV/ 8 YRS #LAM- TIF 1 extension | G6:04 - Migration/Implementation | H6:France | I6:46219 | J6:46199
+
+========================================
+SHEET: Update (Count & %) (File: xl/worksheets/sheet3.xml)
+Total Rows: 5
+A1: | B1: | C1: | D1: | E1: | F1: | G1: | H1: | I1: | J1:
+A2: | B2: | C2: | D2: | E2: | F2: | G2: | H2: | I2: | J2:
+A3:Total Accounts | B3:Account Name | C3:Sub region | D3:Account Link to Vector (mandatory) | E3:Google Strategy | F3:Partner Position (priority) | G3:Is Market Mover/Startegic | H3:Greenfield / Spender | I3:Industry | J3:NWL
+A4:71 | B4:71 | C4:54 | D4:54 | E4:54 | F4:54 | G4:54 | H4:54 | I4:54 | J4:54
+A5:71 | B5:1 | C5:0.7605633803 | D5:0.7605633803 | E5:0.7605633803 | F5:0.7605633803 | G5:0.7605633803 | H5:0.7605633803 | I5:0.7605633803 | J5:0.7605633803
+
+========================================
+SHEET: Sales Play By Sub Region (File: xl/worksheets/sheet4.xml)
+Total Rows: 1000
+A1:Solution | B1:Benelux | C1:CEE | D1:DACH | E1:France | F1:Iberia | G1:Israel | H1:Italy | I1:MENAT | J1:Nordics
+A2:AI / GeminiEnt | B2:3 / 3 | C2:2 / 3 | D2:3 / 3 | E2:3 / 3 | F2:3 / 3 | G2:0 / 0 | H2:3 / 3 | I2:3 / 2 | J2:3 / 3
+A3:Oracle | B3:3 / 3 | C3:2 / 2 | D3:2 / 2 | E3:3 / 3 | F3:3 / 3 | G3:0 / 0 | H3:3 / 3 | I3:2 / 2 | J3:2 / 2
+A4:SAP | B4:2 / 2 | C4:2 / 2 | D4:3 / 3 | E4:3 / 2 | F4:3 / 2 | G4:0 / 0 | H4:2 / 2 | I4:2 / 2 | J4:3 / 2
+A5:Sovereignty | B5:3 / 2 | C5:3 / 3 | D5:3 / 3 | E5:3 / 3 | F5:1 / 1 | G5:0 / 0 | H5:2 / 3 | I5:2 / 2 | J5:1 / 1
+A6:Security | B6:2 / 2 | C6:2 / 1 | D6:2 / 2 | E6:3 / 2 | F6:3 / 3 | G6:0 / 0 | H6:2 / 2 | I6:3 / 3 | J6:2 / 2
+
+========================================
+SHEET: Strategic Accounts (File: xl/worksheets/sheet5.xml)
+Total Rows: 1000
+A1:Geo | B1:Account Name | C1:Account ID | D1:Sub Region | E1: | F1: | G1: | H1: | I1: | J1:
+A2:North | B2:COMMERZBANK AG | C2:0014M00001hdfhzQAA | D2:Germany | E2: | F2: | G2: | H2: | I2: | J2:
+A3:North | B3:DEUTSCHE BANK AG | C3:0014M00001hk0jmQAA | D3:Germany | E3: | F3: | G3: | H3: | I3: | J3:
+A4:North | B4:Deutsche Börse AG | C4:0014M00001hj4bqQAA | D4:Germany | E4: | F4: | G4: | H4: | I4: | J4:
+A5:North | B5:Deutsche Telekom AG | C5:0014M00001hj1vRQAQ | D5:Germany | E5: | F5: | G5: | H5: | I5: | J5:
+A6:North | B6:Ericsson AB | C6:0014M00001huDUzQAM | D6:Nordics | E6: | F6: | G6: | H6: | I6: | J6:
+
+========================================
+SHEET: TAP (File: xl/worksheets/sheet6.xml)
+Total Rows: 1002
+A1:Super Sub Region | B1:Sub Region | C1:ID | D1:Account Name | E1:Account type | F1:Vertical | G1:Final Stage
+(What you see in Anaplan) | H1:Preliminary Stage
+Algorithm -  | I1:Is on Forbes 2k 2025? | J1:
+A2:North (SSR) | B2:CEE (SR) | C2:001Kf00001A0yF0IAJ | D2:EP Group a.s. | E2:Market Mover | F2: | G2: | H2:[3] Late Stage | I2:0 | J2:
+A3:South (SSR) | B3:Benelux (SR) | C3:0014M00001hetdCQAQ | D3:Randstad Global IT Solutions BV | E3:Market Mover | F3:Business & Professional Services | G3: | H3:[3] Late Stage | I3:1 | J3:
+A4:South (SSR) | B4:France (SR) | C4:0014M000026rR1fQAE | D4:THALES DIS FRANCE SAS | E4:Market Mover | F4:Business & Professional Services | G4: | H4:[3] Late Stage | I4:0 | J4:
+A5:UK/IE (SSR) | B5:UK/IE M&I and Ireland (SR) | C5:0014M00001hRGhzQAG | D5:DCC PUBLIC LIMITED COMPANY | E5:Market Mover | F5:Business & Professional Services | G5: | H5:[1] Early Stage | I5:1 | J5:
+A6:North (SSR) | B6:DACH (SR) | C6:0014M00002JoZLVQA3 | D6:TK Elevator GmbH | E6:Market Mover | F6:Business & Professional Services | G6: | H6:[1] Early Stage | I6:0 | J6:
+
+========================================
+SHEET: NWL List (File: xl/worksheets/sheet7.xml)
+Total Rows: 1000
+A1:Account | B1:Official account name | C1:Region | D1:SA/MM | E1:Account ID | F1:Strategic Focus | G1: | H1: | I1: | J1:
+A2:HSBC | B2:HSBC Global Services (UK) Limited | C2:UKI | D2:Strategic Account | E2:0014M00001hLNL6QAO | F2:Expansion | G2: | H2: | I2: | J2:
+A3:Lloyds Bank | B3:Lloyds Bank PLC | C3:UKI | D3:Strategic Account | E3:0014M00001hTgVxQAK | F3:x-PA Growth | G3: | H3: | I3: | J3:
+A4:NatWest | B4:National Westminster Bank plc | C4:UKI | D4:Strategic Account | E4:0014M00001hYPPxQAO | F4:x-PA Growth | G4: | H4: | I4: | J4:
+A5:BT Digital | B5:BT DIGITAL | C5:UKI | D5:Strategic Account | E5:0014M00001hOyQQQA0 | F5:Expansion | G5: | H5: | I5: | J5:
+A6:VMO2 | B6:VMED O2 UK Ltd | C6:UKI | D6:Strategic Account | E6:0014M000026rYF0QAM | F6:x-PA Growth | G6: | H6: | I6: | J6:
+
+========================================
+SHEET: GFSP (File: xl/worksheets/sheet8.xml)
+Total Rows: 154663
+A1:Account ID | B1:Customer Name. | C1:GCP Account Type
+A2:0014M00001hSepWQAS | B2:Gimlet Media | C2:SPENDER
+A3:0014M00001luwcDQAQ | B3:[NO] Lachesis Arne Nicolaisen | C3:GREENFIELD
+A4:0014M00001hZMxSQAW | B4:[NO] Svelvik kommune | C4:GREENFIELD
+A5:0014M00001hcmiiQAA | B5:[SE] STROMSBERGS FRISKOLA | C5:GREENFIELD
+A6:0014M00001hWK4PQAW | B6:Otava Oy | C6:GREENFIELD
+
+========================================
+SHEET: Bookings pipe 2026 Extract - Al (File: xl/worksheets/sheet9.xml)
+Total Rows: 1502
+A1:opportunity_id | B1:opportunity_name | C1:status | D1:stage_name | E1:account_name | F1:region | G1:sub_region | H1:customer_country_code | I1:segment | J1:industry
+A2:0064M00000VvGybQAF | B2:[NAL] Airbus - Chrome Enterprise Upgrade - 20K - FY'25 - #MEP #PSF | C2:LOST | D2:Closed Lost | E2:AIRBUS | F2:EMEA | G2:France | H2:FR | I2:Select | J2:Manufacturing & Industrial
+A3:0064M00000YWbzUQAT | B3:Credito Emiliano - Data Strategy | C3:OPEN | D3:03 - Proposal/Negotiation | E3:CREDITO EMILIANO SPA | F3:EMEA | G3:Italy | H3:IT | I3:Enterprise | J3:Financial Services
+A4:0064M00000Z2m8AQAR | B4:SIX Group: GCP Premium Support | C4:OPEN | D4:02 - Tech Eval/Solution Dev | E4:SIX Group AG | F4:EMEA | G4:DACH | H4:CH | I4:Enterprise | J4:Financial Services
+A5:0064M00000Z8cg2QAB | B5:ADEO Services - Looker Year 5 True-Up | C5:LOST | D5:Closed Lost | E5:ADEO SERVICES | F5:EMEA | G5:France | H5:FR | I5:Select | J5:Retail & Consumer
+A6:0064M00000Z8dzwQAB | B6:Lloyds Banking Group  - Looker - User Expansion Ramp | C6:LOST | D6:Closed Lost | E6:Lloyds Bank PLC | F6:EMEA | G6:UK/IE FSI | H6:GB | I6:Select | J6:Financial Services
+
+========================================
+SHEET: Pivot Table 6 (File: xl/worksheets/sheet10.xml)
+Total Rows: 31
+
+
+
+
+
+
+
+========================================
+SHEET: Bookings pipe 2026 - All (File: xl/worksheets/sheet11.xml)
+Total Rows: 159
+A1:Custom query: WITH
+  CTE1 AS (
+    SELECT DISTINCT
+      t.opportunity_id,
+      t.opportunity_name,
+      t.status,
+      t.stage_name,
+      t.account_name,
+      t.region,
+      t.sub_region,
+      pp.customer_country_code,
+      t.segment,
+      t.industry,
+      t.is_lighthouse,
+      acct.gcp_account_type,
+      a2_product_family AS product_family,
+      a3_details.pillar AS pillar,
+      a3_details.solution AS solution,
+      a4_details.name AS product_names,
+      CASE
+        WHEN
+          trim(a4_details.name)
+          IN (
+            'CCAIPCobrowseWebOnlySubscription',
+            'CCAIPNamedUserMonthsVoiceOnlySubscription',
+            'Document AI Workbench Summarizer',
+            'Gemini for Google Cloud Bundle',
+            'Gemini Pro Text Output - Predictions',
+            'GenAI',
+            'GenAI Image',
+            'GenAI Input',
+            'GenAI Language',
+            'GenAI Output',
+            'Vertex AI Conversation Bundle',
+            'Vertex AI Model Garden Bundle',
+            'Vertex AI Platform Bundle',
+            'Vertex AI Search Bundle',
+            'Vertex AI Solutions Bundle')
+          THEN a4_details.name
+        ELSE NULL
+        END AS cloud_ai_product_names,
+      CASE
+        WHEN
+          trim(a4_details.name)
+          IN (
+            'CCAIPCobrowseWebOnlySubscription',
+            'CCAIPNamedUserMonthsVoiceOnlySubscription',
+            'Document AI Workbench Summarizer',
+            'Gemini for Google Cloud Bundle',
+            'Gemini Pro Text Output - Predictions',
+            'GenAI',
+            'GenAI Image',
+            'GenAI Input',
+            'GenAI Language',
+            'GenAI Output',
+            'Vertex AI Conversation Bundle',
+            'Vertex AI Model Garden Bundle',
+            'Vertex AI Platform Bundle',
+            'Vertex AI Search Bundle',
+            'Vertex AI Solutions Bundle')
+          THEN 'Yes'
+        ELSE NULL
+        END AS is_cloud_ai_product,
+      CASE
+        WHEN
+          trim(a4_details.name)
+          IN (
+            'Chrome Enterprise Premium',
+            'Chronicle',
+            'Chronicle SecOps Enterprise EU Subscription SKU',
+            'Chronicle SecOps Enterprise Plus EU Subscription SKU',
+            'Chronicle SecOps Enterprise Plus US Subscription SKU',
+            'Chronicle SecOps Enterprise US Subscription SKU',
+            'Chronicle SecOps Standard EU Subscription SKU',
+            'Chronicle Security Operations',
+            'Chronicle SIEM ingest',
+            'Chronicle SOAR Full User',
+            'Chronicle SOAR Pro Platform',
+            'Chronicle SOAR Standard Platform',
+            'Google Threat Intel Enterprise',
+            'Google Threat Intel Standard',
+            'SecOps Standard',
+            'Security',
+            'Security : Mandiant',
+            'Security Command Center',
+            'Security Command Center Enterprise Subscription')
+          THEN a4_details.name
+        ELSE NULL
+        END AS security_product_names,
+      a3_details.use_case AS solution_usecase,
+      t.term_months,
+      t.opportunity_description,
+      t.next_step,
+      t.forecast_category_name,
+      t.deal_type,
+      t.is_commit,
+      t.create_date,
+      t.close_date,
+      pgn.partner_group_name,
+      pp.is_pre_attach,
+      pp.is_post_attach,
+      a1_details.contribution AS contribution,
+      a1_details.partner_contribution_notes AS partner_contribution_notes,
+      CASE
+        WHEN t.opportunity_name LIKE '%CCAI%' OR use_case LIKE '%CCAI%' THEN 'yes'
+        ELSE 'no'
+        END AS ccai,
+      t.is_pso_attached,
+      t.partner_transaction_type,
+      t.campaign_name,
+      t.usd_total_amount,
+      a0_forecast_product_details.usd_metrics.acv AS acv,
+      a0_forecast_product_details.usd_metrics.incremental_acv AS iacv,
+      -- CASE
+      --   WHEN a1_details.contribution = 'Material Value'
+      --     THEN
+      --       COUNT(Distinct a1_details.partner_ID)
+      --         OVER (PARTITION BY t.opportunity_id, pgn.partner_group_name, a1_details.contribution)
+      --   ELSE NULL
+      --   END AS no_of_partners_mv
+      num_of_partners_mv,
+      is_market_mover,
+    FROM
+      `concord-prod.service_cloudbi.opportunities` AS t
+    LEFT JOIN UNNEST(t.forecast_product_details) AS a0_forecast_product_details
+    LEFT JOIN UNNEST(t.partner_details.details) AS a1_details
+    LEFT JOIN UNNEST(t.product_family) AS a2_product_family
+    LEFT JOIN UNNEST(t.solution_details.solutions_all.details) AS a3_details
+    LEFT JOIN UNNEST(t.product_lines.details) AS a4_details
+    LEFT JOIN
+      (
+        SELECT DISTINCT sfdc_partner_id, partner_group_name
+        FROM `concord-prod.service_cloudbi.partner_account`
+      ) AS pgn
+      ON a1_details.partner_ID = pgn.sfdc_partner_id
+    LEFT JOIN
+      (
+        SELECT opportunity_id, is_pre_attach, is_post_attach, customer_country_code
+        FROM `concord-prod.service_cloudbi.partner_pipeline`
+        GROUP BY 1, 2, 3, 4
+      ) AS pp
+      ON t.opportunity_id = pp.opportunity_id
+    LEFT JOIN
+      (
+        SELECT
+          a0_account_details.sfdc_account_id AS sfdc_account_id,
+          a0_account_details.child_account_details_anaplan.gcp_account_type AS gcp_account_type
+        FROM
+          `concord-prod.service_cloudbi.vector_customers` AS t,
+          UNNEST(t.account_details) AS a0_account_details
+      ) AS acct
+      ON
+        t.sfdc_account_id = acct.sfdc_account_id
+    LEFT JOIN
+      (
+        SELECT
+          x.opportunity_id,
+          a1_details.contribution,
+          COUNT(DISTINCT a1_details.partner_ID) AS num_of_partners_mv,
+        FROM
+          `concord-prod.service_cloudbi.opportunities` AS x,
+          UNNEST(x.partner_details.details) AS a1_details
+        LEFT JOIN `concord-prod.service_cloudbi.partner_account` AS pxn
+          ON a1_details.partner_ID = pxn.sfdc_partner_id
+        WHERE a1_details.contribution = 'Material Value'
+          AND a1_details.attribution > 0 
+        -- and x.opportunity_id = '0064M00000b8C99QAE'
+        -- AND pxn.partner_group_name = 'Accenture'
+        -- and contribution like "%MATERIAL VALUE%"
+        GROUP BY 1, 2
+      ) AS x
+      ON t.opportunity_id = x.opportunity_id
+    WHERE
+      t.region = 'EMEA'
+      AND pgn.partner_group_name = 'Accenture'
+      AND EXTRACT(year FROM t.close_date) = 2026
+    --AND t.opportunity_id = '0064M00000Vy9eXQAR'
+  ),
+  CTE2 AS (
+    SELECT
+      *,
+      CASE
+        WHEN is_cloud_ai_product = 'Yes'
+          THEN
+            COUNT(*)
+              OVER (PARTITION BY opportunity_id, is_cloud_ai_product)
+        ELSE NULL
+        END AS no_cloud_ai_product
+    FROM CTE1
+  ),
+CTE3 AS (
+    SELECT DISTINCT opportunity_id, Partner_name, contribution
+    FROM `concord-prod.service_cloudbi.opportunities` AS t
+    LEFT JOIN UNNEST(t.partner_details.details) AS a1_details
+    LEFT JOIN
+      (
+        SELECT DISTINCT sfdc_partner_id, partner_group_name
+        FROM `concord-prod.service_cloudbi.partner_account`
+      ) AS pgn
+      ON a1_details.partner_ID = pgn.sfdc_partner_id
+    WHERE
+      partner_group_name LIKE '%Accenture%'
+      AND contribution = 'Material Value'
+  )
+
+SELECT
+  opportunity_id,
+  opportunity_name,
+  status,
+  stage_name,
+  account_name,
+  region,
+  sub_region,
+  customer_country_code,
+  segment,
+  industry,
+  is_lighthouse,
+  gcp_account_type,
+  String_AGG(DISTINCT product_family, '|') AS product_family,
+  String_AGG(DISTINCT pillar, '|') AS pillar,
+  String_AGG(DISTINCT solution, '|') AS solution,
+  String_AGG(DISTINCT product_names, '|') AS product_names,
+  String_AGG(DISTINCT cloud_ai_product_names, '|') AS cloud_ai_product_names,
+  String_AGG(DISTINCT security_product_names, '|') AS security_product_names,
+  String_AGG(DISTINCT solution_usecase, '|') AS solution_usecase,
+  term_months,
+  opportunity_description,
+  next_step,
+  forecast_category_name,
+  deal_type,
+  is_commit,
+  create_date,
+  close_date,
+  partner_group_name,
+  CASE When opportunity_id IN (select distinct opportunity_id from CTE3) Then True Else False END as is_pre_attach,
+  is_post_attach,
+  String_AGG(DISTINCT contribution, '|') AS contribution,
+  String_AGG(DISTINCT partner_contribution_notes, '|') AS partner_contribution_notes,
+  String_AGG(DISTINCT ccai, '|') AS ccai,
+  is_pso_attached,
+  partner_transaction_type,
+  campaign_name,
+  is_market_mover,
+  max(usd_total_amount) AS usd_total_amount,
+  Max(acv) AS acv,
+  Max(num_of_partners_mv) AS no_of_partners_mv,
+  SAFE_DIVIDE(max(usd_total_amount), max(no_cloud_ai_product)) AS aiproduct_tcv,
+  SAFE_DIVIDE(max(acv), max(no_cloud_ai_product)) AS AI_Product_acv,
+  max(no_cloud_ai_product) AS no_cloud_ai_product,
+  Max(iacv) AS iacv
+FROM CTE2
+GROUP BY
+  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 34, 35, 36,37
+ORDER BY 1
+ Last updated: Aug 31, 2026 2:56 PM
+A2:opportunity_id | B2:opportunity_name | C2:status | D2:stage_name | E2:account_name | F2:region | G2:sub_region | H2:customer_country_code | I2:segment | J2:industry
+A3:006Kf00000LimwwIAB | B3:BBVA EA 2026 171M/5Y | C3:WON | D3:04 - Migration/Implementation | E3:BANCO BILBAO VIZCAYA ARGENTARIA SOCIEDAD ANONIMA | F3:EMEA | G3:Iberia | H3:ES | I3:Enterprise | J3:Financial Services
+A4:006Kf00000N5g2PIAR | B4:FG - MasOrange - Apigee upsell +500 PDUs | C4:OPEN | D4:03 - Proposal/Negotiation | E4:MASMOVIL IBERCOM SA. | F4:EMEA | G4:Iberia | H4:ES | I4:Enterprise | J4:Telecommunications, Media & Gaming
+A5:006Kf00000OR6FYIA1 | B5:CaixaBank - EOD 2026 | C5:WON | D5:04 - Migration/Implementation | E5:CAIXABANK SA | F5:EMEA | G5:Iberia | H5:ES | I5:Enterprise | J5:Financial Services
+A6:006Kf00000KrL3nIAF | B6:BBVA - Gemini Enterprise (Consolidated) #FY26_AWT_Renewal | C6:WON | D6:04 - Migration/Implementation | E6:BANCO BILBAO VIZCAYA ARGENTARIA SOCIEDAD ANONIMA | F6:EMEA | G6:Iberia | H6:ES | I6:Enterprise | J6:Financial Services
+
+========================================
+SHEET: Revenue Opps Won (File: xl/worksheets/sheet12.xml)
+Total Rows: 1000
+J1: | K1: | L1: | M1: | N1: | O1: | P1: | Q1: | R1: | S1:
+J2: | K2: | L2: | M2: | N2: | O2: | P2: | Q2: | R2: | S2:
+J3: | K3: | L3: | M3: | N3: | O3: | P3: | Q3: | R3: | S3:
+J4: | K4: | L4: | M4: | N4: | O4: | P4: | Q4: | R4: | S4:
+J5: | K5: | L5: | M5: | N5: | O5: | P5: | Q5: | R5: | S5:
+J6: | K6: | L6: | M6: | N6: | O6: | P6: | Q6: | R6: | S6:
+
+========================================
+SHEET: Additional Data (File: xl/worksheets/sheet13.xml)
+Total Rows: 25501
+A1:sfdc_account_id | B1:account_name | C1:sub_region | D1:partner_group_name | E1:industry
+A2:0014M00001hqIcKQAU | B2:STANDARD BANK GROUP LTD | C2:SSA | D2:TCS | E2:Financial Services
+A3:0014M00001hQuQ5QAK | B3:ESKOM HOLDINGS | C3:SSA | D3:Deloitte | E3:Manufacturing & Industrial
+A4:0014M00001hYZnHQAW | B4:Pepkor IT | C4:SSA | D4:Deloitte | E4:Retail & Consumer
+A5:0014M00001hkHC7QAM | B5:OLD MUTUAL HOLDINGS LTD | C5:SSA | D5:HCL | E5:Financial Services
+A6:0014M00001hqIbdQAE | B6:SIBANYE StillWaters | C6:SSA | D6:Accenture | E6:Manufacturing & Industrial
+
+========================================
+SHEET: Bookings pipe 2026 - Commit - E (File: xl/worksheets/sheet14.xml)
+Total Rows: 95
+A1:pipeline_reporting_uat_close_date_toggle | B1:pipeline_reporting_uat_region_toggle | C1:pipeline_reporting_uat_opportunity_id | D1:pipeline_reporting_uat_opportunity_name | E1:pipeline_reporting_uat_account_name | F1:pipeline_reporting_uat_industry | G1:pipeline_reporting_uat_segment | H1:pipeline_reporting_uat_forecast_category_name | I1:pipeline_reporting_uat_deal_type | J1:pipeline_reporting_uat_status
+A2:2027-Q2 | B2:EMEA | C2:006Kf00000OGh0DIAT | D2:Poste Italiane / Google Cloud Partnership | E2:POSTE ITALIANE SPA | F2:Financial Services | G2:Enterprise | H2:Pipeline | I2:Commit Parent | J2:OPEN
+A3:2026-Q4 | B3:EMEA | C3:006Kf00000JZgW9IAL | D3:UBS: Commit Contract related to strategic partnership (AI transformation, GCP Core, cyber-resiliency) | E3:UBS Group AG | F3:Financial Services | G3:Enterprise | H3:Pipeline | I3:Commit Parent | J3:OPEN
+A4:2026-Q4 | B4:EMEA | C4:006Kf00000OAITUIA5 | D4:L'Oréal SA /$200M TCV/3Y - Marketing Operation - Accenture | E4:L'Oréal | F4:Consumer Packaged Goods | G4:Select | H4:Upside | I4:Commit Parent | J4:OPEN
+A5:2026-Q3 | B5:EMEA | C5:006Kf00000NRsW9IAL | D5:INTERNAL REPORTING Unilever - CMA renegotiation (Reversal of Commit ADJ) - Pls do NOT partner attach | E5:Unilever | F5:Consumer Packaged Goods | G5:Select | H5:Commit | I5:Commit Parent | J5:OPEN
+A6:2026-Q3 | B6:EMEA | C6:006Kf00000JOsBbIAL | D6:Project Paddington - xGov | E6:[GB] DEPARTMENT FOR SCIENCE, INNOVATION AND TECHNOLOGY | F6:Public Sector & EDU | G6:Enterprise | H6:Upside | I6:Commit Parent | J6:OPEN
+
+========================================
+SHEET: Bookings pipe 2026 - Commit (File: xl/worksheets/sheet15.xml)
+Total Rows: 172
+A1:Custom query: WITH pipeline_reporting_uat AS (SELECT * FROM `concord-prod.service_cloudbi.partner_pipeline_reporting`
+      WHERE _PARTITIONDATE = (SELECT MAX(_PARTITIONDATE) FROM `concord-prod.service_cloudbi.partner_pipeline_reporting`
+                              WHERE _PARTITIONDATE >= DATE_SUB(CURRENT_DATE(), INTERVAL 14 DAY)))
+SELECT
+    pipeline_reporting_uat_close_date_toggle,
+    pipeline_reporting_uat_region_toggle,
+    pipeline_reporting_uat_opportunity_id,
+    pipeline_reporting_uat_opportunity_name,
+    pipeline_reporting_uat_account_name,
+    pipeline_reporting_uat_industry,
+    pipeline_reporting_uat_segment,
+    pipeline_reporting_uat_forecast_category_name,
+    pipeline_reporting_uat_deal_type,
+    pipeline_reporting_uat_status,
+    pipeline_reporting_uat_is_partner_registered_pipeline,
+    opportunity_partner_details_sfdc_partner_id,
+    opportunity_partner_details_partner_type,
+    opportunity_partner_details_partner_group_name,
+    opportunity_partner_details_partner_contribution_notes,
+    opportunity_partner_details_isv_pillar,
+    opportunity_partner_details_stage_attached,
+    opportunity_partner_details_is_pre_attached,
+    opportunity_partner_details_is_post_attached,
+    opportunity_partner_details_is_partner_influenced,
+    opportunity_partner_details_is_partner_attached,
+    opportunity_partner_details_partner_name,
+    pipeline_reporting_uat_stage_name,
+    opportunity_partner_details_is_managed,
+    opportunity_partner_details_is_program_managed,
+    pipeline_reporting_uat_sub_region,
+    pipeline_reporting_uat_is_market_mover,
+    pipeline_reporting_uat_gcp_partner_influenced_pipeline_1 AS pipeline_reporting_uat_metric_toggle_1,
+    pipeline_reporting_uat_opp_usd_acv_2,
+    pipeline_reporting_uat_opp_usd_iacv_1,
+    pipeline_reporting_uat_opp_usd_total_1
+FROM
+    (SELECT
+            pipeline_reporting_uat.customer_details.account_name  AS pipeline_reporting_uat_account_name,
+                (CASE WHEN pipeline_reporting_uat.customer_details.is_market_mover  THEN 'Yes' ELSE 'No' END) AS pipeline_reporting_uat_is_market_mover,
+            pipeline_reporting_uat.customer_details.industry  AS pipeline_reporting_uat_industry,
+            pipeline_reporting_uat.customer_details.segment  AS pipeline_reporting_uat_segment,
+            pipeline_reporting_uat.customer_details.sub_region  AS pipeline_reporting_uat_sub_region,
+            pipeline_reporting_uat.opportunity_details.forecast_category_name  AS pipeline_reporting_uat_forecast_category_name,
+                (CASE WHEN pipeline_reporting_uat.opportunity_details.is_partner_registered_pipeline  THEN 'Yes' ELSE 'No' END) AS pipeline_reporting_uat_is_partner_registered_pipeline,
+            pipeline_reporting_uat.opportunity_details.opportunity_name  AS pipeline_reporting_uat_opportunity_name,
+            pipeline_reporting_uat.opportunity_details.deal_type  AS pipeline_reporting_uat_deal_type,
+            pipeline_reporting_uat.opportunity_details.stage_name  AS pipeline_reporting_uat_stage_name,
+            pipeline_reporting_uat.opportunity_details.status  AS pipeline_reporting_uat_status,
+            pipeline_reporting_uat.opportunity_id  AS pipeline_reporting_uat_opportunity_id,
+
+        pipeline_reporting_uat.customer_details.region
+       AS pipeline_reporting_uat_region_toggle,
+
+        (CONCAT((EXTRACT(YEAR FROM pipeline_reporting_uat.opportunity_details.close_date )), '-', (CONCAT('Q', EXTRACT(QUARTER FROM pipeline_reporting_uat.opportunity_details.close_date )))))
+       AS pipeline_reporting_uat_close_date_toggle,
+            opportunity_partner_details.partner_name  AS opportunity_partner_details_partner_name,
+                (CASE WHEN opportunity_partner_details.is_managed  THEN 'Yes' ELSE 'No' END) AS opportunity_partner_details_is_managed,
+                (CASE WHEN opportunity_partner_details.is_program_managed  THEN 'Yes' ELSE 'No' END) AS opportunity_partner_details_is_program_managed,
+                (CASE WHEN opportunity_partner_details.is_partner_attached  THEN 'Yes' ELSE 'No' END) AS opportunity_partner_details_is_partner_attached,
+                (CASE WHEN opportunity_partner_details.is_partner_influenced  THEN 'Yes' ELSE 'No' END) AS opportunity_partner_details_is_partner_influenced,
+                (CASE WHEN opportunity_partner_details.is_post_attached  THEN 'Yes' ELSE 'No' END) AS opportunity_partner_details_is_post_attached,
+                (CASE WHEN opportunity_partner_details.is_pre_attached  THEN 'Yes' ELSE 'No' END) AS opportunity_partner_details_is_pre_attached,
+            opportunity_partner_details.isv_pillar  AS opportunity_partner_details_isv_pillar,
+            opportunity_partner_details.partner_contribution_notes  AS opportunity_partner_details_partner_contribution_notes,
+            opportunity_partner_details.partner_group_name  AS opportunity_partner_details_partner_group_name,
+            opportunity_partner_details.partner_type  AS opportunity_partner_details_partner_type,
+            opportunity_partner_details.sfdc_partner_id  AS opportunity_partner_details_sfdc_partner_id,
+            opportunity_partner_details.stage_attached  AS opportunity_partner_details_stage_attached,
+            ROUND(COALESCE(CAST( ( SUM(DISTINCT (CAST(ROUND(COALESCE( pipeline_reporting_uat.metrics.opp_usd_incremental_acv_partner_influenced_pipeline  ,0)*(1/1000*1.0), 9) AS NUMERIC) + (cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 1, 15)) as int64) as numeric) * 4294967296 + cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 16, 8)) as int64) as numeric)) * 0.000000001 )) - SUM(DISTINCT (cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 1, 15)) as int64) as numeric) * 4294967296 + cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 16, 8)) as int64) as numeric)) * 0.000000001) )  / (1/1000*1.0) AS NUMERIC), 0), 6) AS pipeline_reporting_uat_gcp_partner_influenced_pipeline_1,
+            ROUND(COALESCE(CAST( ( SUM(DISTINCT (CAST(ROUND(COALESCE( pipeline_reporting_uat.metrics.opp_USD_ACV  ,0)*(1/1000*1.0), 9) AS NUMERIC) + (cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 1, 15)) as int64) as numeric) * 4294967296 + cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 16, 8)) as int64) as numeric)) * 0.000000001 )) - SUM(DISTINCT (cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 1, 15)) as int64) as numeric) * 4294967296 + cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 16, 8)) as int64) as numeric)) * 0.000000001) )  / (1/1000*1.0) AS NUMERIC), 0), 6) AS pipeline_reporting_uat_opp_usd_acv_2,
+            ROUND(COALESCE(CAST( ( SUM(DISTINCT (CAST(ROUND(COALESCE( pipeline_reporting_uat.metrics.opp_USD_incremental_ACV  ,0)*(1/1000*1.0), 9) AS NUMERIC) + (cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 1, 15)) as int64) as numeric) * 4294967296 + cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 16, 8)) as int64) as numeric)) * 0.000000001 )) - SUM(DISTINCT (cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 1, 15)) as int64) as numeric) * 4294967296 + cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 16, 8)) as int64) as numeric)) * 0.000000001) )  / (1/1000*1.0) AS NUMERIC), 0), 6) AS pipeline_reporting_uat_opp_usd_iacv_1,
+            ROUND(COALESCE(CAST( ( SUM(DISTINCT (CAST(ROUND(COALESCE( pipeline_reporting_uat.metrics.opp_USD_total_amount  ,0)*(1/1000*1.0), 9) AS NUMERIC) + (cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 1, 15)) as int64) as numeric) * 4294967296 + cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 16, 8)) as int64) as numeric)) * 0.000000001 )) - SUM(DISTINCT (cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 1, 15)) as int64) as numeric) * 4294967296 + cast(cast(concat('0x', substr(to_hex(md5(CAST( CONCAT(
+         pipeline_reporting_uat.opportunity_id  , '_',
+        COALESCE(CAST( pipeline_reporting_uat.booking_month   AS STRING), 'NULL_BOOKING_RAW'), '_',
+        COALESCE( pipeline_reporting_uat.product  , 'NULL_PRODUCT'), '_',
+        COALESCE( pipeline_reporting_uat.reseller_account_id  , 'NULL_RES_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.reporting_id  , 'NULL_REP_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_account_id  , 'NULL_SFDC_ACCT_ID'), '_',
+        COALESCE( pipeline_reporting_uat.sfdc_partner_id  , 'NULL_SFDC_PART_ID')
+       )   AS STRING))), 16, 8)) as int64) as numeric)) * 0.000000001) )  / (1/1000*1.0) AS NUMERIC), 0), 6) AS pipeline_reporting_uat_opp_usd_total_1
+        FROM pipeline_reporting_uat
+LEFT JOIN UNNEST(pipeline_reporting_uat.opportunity_details.product_family) as product_family
+LEFT JOIN UNNEST(pipeline_reporting_uat.opportunity_details.partner_details) as opportunity_partner_details
+        WHERE (pipeline_reporting_uat.customer_details.region ) = 'EMEA' 
+        AND opportunity_partner_details.is_material_value
+        AND ((pipeline_reporting_uat.customer_details.segment ) IN ('Corporate', 'Enterprise', 'Select', 'Startup') 
+        AND (pipeline_reporting_uat.opportunity_details.forecast_category_name ) IN ('Closed Won', 'Commit', 'Pipeline', 'Upside')) 
+        AND ((pipeline_reporting_uat.opportunity_details.deal_type ) = 'Commit Parent' 
+        AND ((pipeline_reporting_uat.opportunity_details.stage_name ) IN ('00 - Qualify', '01 - Refine', '02 - Tech Eval/Solution Dev', '03 - Proposal/Negotiation') 
+        AND ((UPPER(( product_family  )) = UPPER('Google Cloud Platform')))))
+        GROUP BY
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+        --HAVING pipeline_reporting_uat_gcp_partner_influenced_pipeline_1 is NUll or pipeline_reporting_uat_gcp_partner_influenced_pipeline_1 <> 0
+        ) AS t3
+ORDER BY
+    pipeline_reporting_uat_gcp_partner_influenced_pipeline_1 DESC
+LIMIT 100000 Last updated: Jul 06, 2026 9:24 AM
+A2:pipeline_reporting_uat_close_date_toggle | B2:pipeline_reporting_uat_region_toggle | C2:pipeline_reporting_uat_opportunity_id | D2:pipeline_reporting_uat_opportunity_name | E2:pipeline_reporting_uat_account_name | F2:pipeline_reporting_uat_industry | G2:pipeline_reporting_uat_segment | H2:pipeline_reporting_uat_forecast_category_name | I2:pipeline_reporting_uat_deal_type | J2:pipeline_reporting_uat_status
+A3:2027-Q2 | B3:EMEA | C3:006Kf00000OGh0DIAT | D3:Poste Italiane / Google Cloud Partnership | E3:POSTE ITALIANE SPA | F3:Financial Services | G3:Enterprise | H3:Pipeline | I3:Commit Parent | J3:OPEN
+A4:2026-Q4 | B4:EMEA | C4:006Kf00000NypT3IAJ | D4:Diageo AI Transformation Commit $50m ACV ($250m TCV) | E4:Diageo Great Britain Ltd | F4:Consumer Packaged Goods | G4:Enterprise | H4:Pipeline | I4:Commit Parent | J4:OPEN
+A5:2026-Q4 | B5:EMEA | C5:006Kf00000JZgW9IAL | D5:UBS: Commit Contract related to strategic partnership (AI transformation, GCP Core, cyber-resiliency) | E5:UBS Group AG | F5:Financial Services | G5:Enterprise | H5:Pipeline | I5:Commit Parent | J5:OPEN
+A6:2026-Q4 | B6:EMEA | C6:006Kf00000JC75dIAD | D6:Government of Nigeria - Strategic partnership $180m | E6:GALAXY BACKBONE LIMITED | F6:Public Sector & EDU | G6:Enterprise | H6:Upside | I6:Commit Parent | J6:OPEN
+
+========================================
+SHEET: Lookup Data (File: xl/worksheets/sheet16.xml)
+Total Rows: 502
+A1:Custom query: SELECT Distinct
+  t.opportunity_id,
+  t.opportunity_name,
+  t.sfdc_account_id,
+  t.account_name,
+  t.reporting_account_name,
+  t.child_account_name,
+  t.sub_region,
+  pgn.partner_group_name,
+  t.industry
+FROM `concord-prod`.service_cloudbi.opportunities AS t
+LEFT JOIN UNNEST(t.partner_details.details) AS a1_details
+LEFT JOIN
+  (
+    SELECT DISTINCT sfdc_partner_id, partner_group_name
+    FROM `concord-prod.service_cloudbi.partner_account`
+  ) AS pgn
+  ON a1_details.partner_ID = pgn.sfdc_partner_id
+WHERE
+ t.region = 'EMEA'
+ AND pgn.partner_group_name IN ('Accenture', 
+'Boston Consulting Group', 
+'Capgemini', 
+'Cognizant', 
+'Deloitte', 
+'HCL', 
+'IBM', 
+'Infosys', 
+'KPMG', 
+'Kyndryl', 
+'McKinsey & Company', 
+'PWC', 
+'TCS', 
+'Wipro')
+ Last updated: Jun 23, 2026 12:39 AM
+A2:opportunity_id | B2:opportunity_name | C2:sfdc_account_id | D2:account_name | E2:reporting_account_name | F2:child_account_name | G2:sub_region | H2:partner_group_name | I2:industry
+A3:006Kf00000Jag6OIAR | B3:MGB - Looker - Accenture | C3:0014M00001htcsRQAQ | D3:Migros-Genossenschafts-Bund | E3:Migros-Genossenschafts-Bund | F3:Migros-Genossenschafts-Bund | G3:DACH | H3:Accenture | I3:Retail & Consumer
+A4:0064M00000YDMWiQAP | B4:MPS Media Center Enhancement with CCAI | C4:0014M00001hTlxXQAS | D4:BANCA MONTE DEI PASCHI DI SIENA SPA | E4:BANCA MONTE DEI PASCHI DI SIENA SPA | F4:BANCA MONTE DEI PASCHI DI SIENA SPA | G4:Italy | H4:Accenture | I4:Financial Services
+A5:006Kf00000JZU6YIAX | B5:PMI - Apigee RFI / RFP | C5:0014M00001hfvWnQAI | D5:Philip Morris International IT Service Centre SARL | E5:Philip Morris International IT Service Centre SARL | F5:Philip Morris International IT Service Centre SARL | G5:DACH | H5:Kyndryl | I5:Consumer Packaged Goods
+A6:0064M00000c4jbHQAQ | B6:HSBC-GCP-Finance-FinanceDataService-Transition1 | C6:0014M00001hLNL6QAO | D6:HSBC Global Services (UK) Limited | E6:HSBC Global Services (UK) Limited | F6:HSBC Global Services (UK) Limited | G6:UK/IE FSI | H6:Deloitte | I6:Financial Services
+
+========================================
+SHEET: Lookup Data Extract (File: xl/worksheets/sheet17.xml)
+Total Rows: 21538
+A1:opportunity_id | B1:opportunity_name | C1:sfdc_account_id | D1:account_name | E1:reporting_account_name | F1:child_account_name | G1:sub_region | H1:partner_group_name | I1:industry | K1:Only Child Account Name to be considered as only this perfectly matches with Vector name
+A2:006Kf00000JC84MIAT | B2:[Azimut] Agentspace  #prospecting | C2:0014M00001hpd24QAA | D2:AZIMUT HOLDING SpA | E2:AZIMUT HOLDING SpA | F2:AZIMUT HOLDING SpA | G2:Italy | H2:Deloitte | I2:Financial Services
+A3:0064M00000XUT65QAH | B3:DE/HCLS/Bayer AG/H2T $100M TCV/5ys *** reserved for CIP | C3:0014M00001hJecpQAC | D3:Bayer AG | E3:Bayer AG | F3:Bayer AG | G3:DACH | H3:Accenture | I3:Healthcare & Life Sciences
+A4:006Kf00000JO7CVIA1 | B4:[STLA] - FY26 - In-vehicle strategic partnership | C4:001Kf00001CjJvjIAF | D4:STELLANTIS AUTO SAS | E4:STELLANTIS AUTO SAS | F4:STELLANTIS AUTO SAS | G4:Italy | H4:Accenture | I4:
+A5:0064M00000Zeq8OQAR | B5:RTE -  #Smart #Data | C5:0014M00001hm8WPQAY | D5:[FR] RTE France | E5:[FR] RTE France | F5:[FR] RTE France | G5:France | H5:Capgemini | I5:Manufacturing & Industrial
+A6:0064M00000WYqfnQAD | B6:Kerry Foods - SAP on GCP $1m | C6:0014M00001hMcwOQAS | D6:KERRY Group | E6:KERRY Group | F6:KERRY Group | G6:UK/IE M&I and Ireland | H6:Deloitte | I6:Consumer Packaged Goods
+
+========================================
+SHEET: Pivot Table 4 (File: xl/worksheets/sheet18.xml)
+Total Rows: 3605
+
+
+
+
+
+
